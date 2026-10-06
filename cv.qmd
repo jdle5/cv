@@ -1,14 +1,13 @@
 ---
 author:
-  - name: Sidney Verba
-    url: https://en.wikipedia.org/wiki/Sidney_Verba
-    email: "example@harvard.edu"
+  - name: Jacqueline Le
+    url: https://github.com/jdle5/cv.git
+    email: "jdle5@uh.edu"
     degrees:
-      - PhD
+      - 
     affiliations:
-      - name: Harvard University
-        department: Department of Government
-    title: "Carl H. Pforzheimer University Professor (Emeritus)"
+      - name: University of Houston
+        department: Department of Political Science
 date: today
 format:
   cv-typst:
@@ -26,20 +25,6 @@ nocite: '@*'
 
 {{< cv education >}}
 
-## Books
-
-:::{#refs-books}
-:::
-
-## Peer-Reviewed Articles
-
-:::{#refs-articles}
-:::
-
-## Book Chapters
-
-:::{#refs-bookchapters}
-:::
 
 ## Working Papers
 
@@ -50,6 +35,3 @@ nocite: '@*'
 
 {{< cv honors >}}
 
-## Service
-
-{{< cv positions >}}
